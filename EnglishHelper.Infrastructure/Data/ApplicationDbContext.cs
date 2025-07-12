@@ -14,5 +14,7 @@ namespace EnglishHelper.Data
         }
         public DbSet<User> Users { get; set; }
         public DbSet<UserPoints> UserPoints { get; set; }
+        public DbSet<VoiceEvaluation>VoiceEvaluations { get; set; }
+        public DbSet<Activity> Activities { get; set; }
     }
 }
