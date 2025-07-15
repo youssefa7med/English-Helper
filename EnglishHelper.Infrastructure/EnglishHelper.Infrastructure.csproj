@@ -17,7 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EnglishHelper.Application\EnglishHelper.Application.csproj" />
     <ProjectReference Include="..\EnglishHelper.Core\EnglishHelper.Core.csproj" />
   </ItemGroup>
 

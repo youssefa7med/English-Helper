@@ -21,8 +21,4 @@
     <ProjectReference Include="..\EnglishHelper.Infrastructure\EnglishHelper.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>

@@ -7,12 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\" />
+    <Folder Include="Interfaces\" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EnglishHelper.Core\EnglishHelper.Core.csproj" />
-    <ProjectReference Include="..\EnglishHelper.Infrastructure\EnglishHelper.Infrastructure.csproj" />
+    <PackageReference Include="MediaBrowser.Common" Version="4.9.0.52-beta" />
   </ItemGroup>
 
 </Project>
